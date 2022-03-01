@@ -1,4 +1,4 @@
-### Oiii! Eu sou o Guilherme Bodnar
+### Hi, I'm Guilherme Bodnar!!
  <div>
   <a href="https://github.com/bodnarguilherme">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bodnarguilherme&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
