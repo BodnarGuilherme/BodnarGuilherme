@@ -15,3 +15,5 @@
  
  ![Snake animation](https://github.com/bodnarguilherme/bodnarguilherme/blob/output/github-contribution-grid-snake.svg)
   ##
+I'm Guilherme Bodnar, I'm 18 years old
+I study Systems Analysis and Development at Unicesumar College, I am currently working in a dentist office as a receptionist, I have great communication and ease of adapting to new activities, and I am looking for an internship to improve and grow in the area of technology, and on Saturdays I study English, with the purpose of doing an exchange program so that I can combine study and work.
