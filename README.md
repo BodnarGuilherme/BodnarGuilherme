@@ -7,7 +7,7 @@
   <div align="start">
     - 🔭 Atualmente Estou Trabalhando em uma Clínica Odontológica<br>
     - 🌱 Atualmente Estou Estudando/Aprendendo - Python,SQL,Git<br>
-    - 📚 Tenho Conhecimentos em Lógica de Programação, Estrutura de Dados, Sistemas Operacionas<br>
+    - 📚 Tenho Conhecimentos em Lógica de Programação, Estrutura de Dados, Sistemas Operacionais<br>
     - 🎓 Curso Análise e Desenvolvimento de Sistemas (5° Periodo)<br>
     - 🔎 Estou em Busca de Oportunidade de Emprego na Área<br>
     - 💭 Atualmente Estou Desenvolvendo meu Inglês<br>
