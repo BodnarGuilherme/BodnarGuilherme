@@ -5,14 +5,14 @@
   ## Sobre mim:
 
   <div align="start">
-    - 🔭 Atualmente Estou Trabalhando em uma Clínica Odontológica <br>
-    - 🌱 Atualmente Estou Estudando/Aprendendo - Python,SQL,Git<br>
-    - 📚 Tenho Conhecimentos em Lógica de Programação e Algumas Linguagens como Java, C++, Html, Css, Js <br>
-    - 🎓 Curso Análise e Desenvolvimento de Sistemas (5° Periodo)<br>
-    - 🔎 Estou em Busca de Oportunidade de Emprego na Área<br>
-    - 💭 Atualmente Estou Desenvolvendo meu Inglês<br>
-    - 😄 Pronomes Ele/Dele<br>
-    - ⚡ Sou uma Pessoa Muito Curisosa<br>
+    - 🔭 <tt>Atualmente Estou Trabalhando em uma Clínica Odontológica</tt><br>
+    - 🌱 <tt>Atualmente Estou Estudando/Aprendendo - Python,SQL,Git</tt><br>
+    - 📚 <tt>Tenho Conhecimentos em Lógica de Programação e Algumas Linguagens como Java, C++, Html, Css, Js</tt><br>
+    - 🎓 <tt>Curso Análise e Desenvolvimento de Sistemas (5° Periodo)</tt><br>
+    - 🔎 <tt>Estou em Busca de Oportunidade de Emprego na Área</tt><br>
+    - 💭 <tt>Atualmente Estou Desenvolvendo meu Inglês</tt><br>
+    - 😄 <tt>Pronomes Ele/Dele</tt><br>
+    - ⚡ <tt>Sou uma Pessoa Muito Curisosa</tt><br>
   </div>
 
   ## Ferramentas e Tecnologias:
