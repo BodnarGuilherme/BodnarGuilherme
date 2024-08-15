@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F8F8FF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4F4F4F&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F8F8FF&size=35&center=true&vCenter=true&width=1020&lines=Oláá,+Me+Chamo+Guilherme+Bodnar+!!;Tenho+21+Anos;Atualmente+Moro+Em+Curitiba,PR;Seja+Muitoo+Bem+Vindo++:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4F4F4F&size=35&center=true&vCenter=true&width=1020&lines=Oláá,+Me+Chamo+Guilherme+Bodnar+!!;Tenho+21+Anos;Atualmente+Moro+Em+Curitiba,PR;Seja+Muitoo+Bem+Vindo++:%29)](https://git.io/typing-svg)
   
   ## Sobre mim:
 
