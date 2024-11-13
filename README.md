@@ -5,11 +5,11 @@
   ## Sobre mim:
 
   <div align="start">
-    - 🔭 Atualmente Estou Trabalhando em uma Clínica Odontológica<br>
-    - 🌱 Atualmente Estou Estudando/Aprendendo - Python,SQL,Git<br>
-    - 📚 Tenho Conhecimentos em Lógica de Programação, Estrutura de Dados, Sistemas Operacionais<br>
-    - 🎓 Curso Análise e Desenvolvimento de Sistemas (5° Periodo)<br>
-    - 🔎 Estou em Busca de Oportunidade de Emprego na Área<br>
+    - 🔭 Atualmente Trabalho na PRF na Divisão de Tecnologia e Comunicação<br>
+    - 🌱 Nesse período Estou Estudando/Aprendendo - Python,SQL,Git<br>
+    - 📚 Tenho Conhecimentos em Lógica de Programação, Estrutura de Dados, Sistemas Operacionais, Linux, Redes<br>
+    - 🎓 Análise e Desenvolvimento de Sistemas<br>
+    - 🔎 Estou em Busca de Novos Aprendizados e Aprimoramento Pessoal<br>
     - 💭 Atualmente Estou Desenvolvendo meu Inglês<br>
     - 😄 Pronomes Ele/Dele<br>
     - ⚡ <tt>Sou uma Pessoa Muito Curisosa</tt><br>
@@ -52,7 +52,7 @@
 
   <div>
     <a href="https://github.com/bodnarguilherme">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bodnarguilherme&show_icon=github&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bodnarguilherme&rank_icon=github&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bodnarguilherme&layout=compact&langs_count=8&theme=dark"/>
   </div>
 
