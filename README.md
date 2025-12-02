@@ -1,56 +1,61 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4F4F4F&height=120&section=header"/>
+<div align="center">
+<pre>
+██████╗  ██████╗ ██████╗ ███╗   ██╗ █████╗ ██████╗ 
+██╔══██╗██╔═══██╗██╔══██╗████╗  ██║██╔══██╗██╔══██╗
+██████╔╝██║   ██║██║  ██║██╔██╗ ██║███████║██████╔╝
+██╔══██╗██║   ██║██║  ██║██║╚██╗██║██╔══██║██╔══██╗
+██████╔╝╚██████╔╝██████╔╝██║ ╚████║██║  ██║██║  ██║
+╚═════╝  ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝
+                                                   
+>> CYBERSECURITY // INFRASTRUCTURE // DEVELOPER
+>> CWB // BR
+</pre>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4F4F4F&size=35&center=true&vCenter=true&width=1020&lines=Oláá,+Me+Chamo+Guilherme+Bodnar+!!;Tenho+21+Anos;Atualmente+Moro+Em+Curitiba,PR;Seja+Muitoo+Bem+Vindo++:%29)](https://git.io/typing-svg)
-  
-  ## Sobre mim:
+---
 
-  <div align="start">
-    - 🔭 Atualmente Trabalho na PRF na Divisão de Tecnologia e Comunicação<br>
-    - 🌱 Nesse período Estou Estudando/Aprendendo - Python,SQL,Git<br>
-    - 📚 Tenho Conhecimentos em Lógica de Programação, Estrutura de Dados, Sistemas Operacionais, Linux, Redes<br>
-    - 🎓 Análise e Desenvolvimento de Sistemas<br>
-    - 🔎 Estou em Busca de Novos Aprendizados e Aprimoramento Pessoal<br>
-    - 💭 Atualmente Estou Desenvolvendo meu Inglês<br>
-    - 😄 Pronomes Ele/Dele<br>
-    - ⚡ <tt>Sou uma Pessoa Muito Curisosa</tt><br>
-  </div>
+### 🚩 SYSTEM_LOG: `whoami`
 
-  ## Ferramentas e Tecnologias:
+```python
+class GuilhermeBodnar:
+    def __init__(self):
+        self.role = "Trainee - PRF (Federal Highway Police)"
+        self.division = "Technology & Communication"
+        self.focus = ["Cybersecurity", "Hardening", "Development", "Networks"]
+        self.mission = "Building Secure architectures"
 
- <div align="center">
+    def execute_routine(self):
+        return "Bridging the gap between Code and Security."
 
- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&ensp;
- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&ensp;
- ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&ensp;
- ![Git](https://img.shields.io/badge/GIT-b54e00?style=for-the-badge&logo=git&logoColor=white)&ensp;
- ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&ensp;
- ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)&ensp;
- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&ensp;
- ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&ensp;
- ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)&ensp;
- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)&ensp;
- ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)&ensp;
- ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ffff00)&ensp;
- ![trello](https://img.shields.io/badge/trello-000000?style=for-the-badge&logo=trello&logoColor=5c95ff)&ensp;
- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&ensp;
- ![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=ffffff)&ensp;
- ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)&ensp;
- ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&ensp;
- ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)&ensp;
- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&ensp;
- ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)&ensp;
- ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)&ensp;
- ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)&ensp;
- ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)&ensp;
- ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&ensp;
- ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)&ensp;
- ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&ensp;
- ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&ensp;
- ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)&ensp;
- ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)&ensp;
- </div>
 
-  ## Contatos:
+📂 DIRECTORY_TREE: ~/skills/
+
+root@bodnar:~/arsenal# tree -a
+.
+├── 💻_coding_languages
+│   ├── 🐍_scripting: [ python, bash ]
+│   ├── ⚙️_core: [ java, c++, c]
+│   └── 🌐_web: [ typeScript, nodejs, tailwind css ]
+│
+├── 🗄️_data_&_cloud
+│   ├── ☁️_providers: [ oracle_cloud ]
+│   └── 💾_databases: [ sql, noqsl ]
+│
+├──  📡_network_infrastructure
+│   ├── hardware: [ mikrotik, huawei, starlink ]
+│   └── protocols: [ ipsec, openvpn, wireguard, vlans ]
+│
+├── 🛡️_environment_&_os
+│   ├── 💀_offensive: [ kali_linux ]
+│   ├── 🐧_servers: [ ubuntu, linux_kernels ]
+│   └── 🪟_desktop: [ windows ]
+│
+└── 🛠️_tools_&_utils
+    ├── version_control: [ git, github ]
+    ├── editors: [ vs_code ]
+    └── studying: [ udemy, fortinet - NSE1/NSE2 ]
+```
+## Contacts:
 
   <div>
     <a href="https://www.instagram.com/bodnargui/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -59,15 +64,5 @@
     <a href="https://www.discordapp.com/users/363682599509688320" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   </div>
 
-  ## Meu Progresso:
 
-  <div>
-    <a href="https://github.com/bodnarguilherme">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bodnarguilherme&rank_icon=github&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bodnarguilherme&layout=compact&langs_count=8&theme=dark"/>
-  </div>
-
-  ##
    ![Snake animation](https://github.com/bodnarguilherme/bodnarguilherme/blob/output/github-contribution-grid-snake.svg)
-
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4F4F4F&height=65&section=footer"/>
