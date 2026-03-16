@@ -55,6 +55,9 @@ root@bodnar:~/arsenal# tree -a
     ├── editors: [ vs_code ]
     └── studying: [ udemy, fortinet - NSE1/NSE2 ]
 ```
+## Platforms:
+<img src="https://tryhackme-badges.s3.amazonaws.com/guilhermebodnar.png" alt="Your Image Badge" />
+
 ## Contacts:
 
   <div>
